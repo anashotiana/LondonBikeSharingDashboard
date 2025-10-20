@@ -46,5 +46,5 @@ It combines **Python (EDA)** for data cleaning and preprocessing with an interac
 ## 🧮 How to Reproduce
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/LondonBikeSharingDashboard.git
+   git clone https://github.com/anashotiana/LondonBikeSharingDashboard.git
    cd LondonBikeSharingDashboard
